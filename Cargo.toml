@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Unified type system for room ensigns and git-native agents"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-agent-unify"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
